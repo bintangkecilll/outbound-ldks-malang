@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /images/
+
+Sitemap: https://outboundldksmalang.com/sitemap.xml
+
+# Outbound LDKS Malang
+# Website by haidar
